@@ -1,0 +1,12 @@
+body {
+  scroll-behavior: smooth;
+}
+
+h2 {
+  margin-bottom: 1rem;
+}
+
+section {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
