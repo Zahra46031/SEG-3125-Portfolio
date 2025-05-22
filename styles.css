@@ -10,3 +10,7 @@ section {
   padding-top: 60px;
   padding-bottom: 60px;
 }
+
+.custom-pink {
+  background-color: #ff69b4;
+}
