@@ -32,6 +32,7 @@ section {
 .btn-pink {
   background-color: #ff69b4; /* Hot Pink */
   border-color: #ff69b4;
+  color:white;
 }
 
 .btn-pink:hover {
