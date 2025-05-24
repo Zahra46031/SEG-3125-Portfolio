@@ -16,7 +16,19 @@ section {
 }
 
 .uniform-img{
-  width: 18rem;
+  width: 250px;
   height: 200px;
   object-fit: cover;
+}
+
+.card{
+  width: 18rem;
+}
+
+.card-body{
+  background-color: rgb(250, 230, 250);
+}
+
+.btn btn-primary{
+  background-color: blueviolet;
 }
