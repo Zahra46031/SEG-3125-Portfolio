@@ -29,12 +29,12 @@ section {
   background-color: rgb(250, 230, 250);
 }
 
-.btn-primary {
+.btn-pink {
   background-color: #ff69b4; /* Hot Pink */
   border-color: #ff69b4;
 }
 
-.btn-primary:hover {
+.btn-pink:hover {
   background-color: #e0559f; /* Darker pink on hover */
   border-color: #e0559f;
 }
