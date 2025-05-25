@@ -1,9 +1,9 @@
-.h1{
+h1{
     text-align: center;
     color:white;
     font-weight: bold;
 }
 
-.body{
-    background-color: pink;
+body{
+    background-color: #fa1697;
 }

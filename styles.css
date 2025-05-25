@@ -23,20 +23,20 @@ section {
 
 .card{
   width: 18rem;
-  height: 24rem;
+  height: 22rem;
 }
 
 .card-body{
   background-color: rgb(250, 230, 250);
 }
 
-.btn-pink {
+.my-btn-pink {
   background-color: #ff69b4; /* Hot Pink */
   border-color: #ff69b4;
   color:white;
 }
 
-.btn-pink:hover {
+.my-btn-pink:hover {
   background-color: #e0559f; /* Darker pink on hover */
   border-color: #e0559f;
 }
