@@ -23,7 +23,7 @@ section {
 
 .card{
   width: 18rem;
-  height: 22rem;
+  height: 21rem;
 }
 
 .card-body{
@@ -35,6 +35,8 @@ section {
   border-color: #ff69b4;
   color:white;
   text-decoration: none !important;
+  padding: 15px 40px;      
+  border-radius: 50px;   
 }
 
 .my-btn-pink:hover {
@@ -43,7 +45,6 @@ section {
 }
 
 a{
-  border-radius: 999px;
   text-decoration: none;
   display: inline-block;
   border: none;
