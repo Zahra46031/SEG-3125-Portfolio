@@ -34,9 +34,17 @@ section {
   background-color: #ff69b4; /* Hot Pink */
   border-color: #ff69b4;
   color:white;
+  text-decoration: none !important;
 }
 
 .my-btn-pink:hover {
   background-color: #e0559f; /* Darker pink on hover */
   border-color: #e0559f;
+}
+
+a{
+  border-radius: 999px;
+  text-decoration: none;
+  display: inline-block;
+  border: none;
 }
